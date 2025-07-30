@@ -1,6 +1,6 @@
 # HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion-SalesForce
 
-📌 Overview
+#📌 Overview
 HandsMen Threads is a premium bespoke men's fashion brand aiming to enhance customer experience and operational efficiency through a customized Salesforce CRM implementation. This project focuses on streamlining order management, inventory tracking, customer loyalty, and tailoring schedules—bringing digital sophistication to men’s tailoring.
 
 🧠 Workspace Structure
