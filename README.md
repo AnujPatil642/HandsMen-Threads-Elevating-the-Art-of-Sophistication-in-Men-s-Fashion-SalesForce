@@ -58,10 +58,10 @@ HandsMen Threads wants to:
 🚀 Demo
 
 
-🎥 Watch the demo video: 
+🎥 Watch the demo video: https://drive.google.com/drive/u/2/folders/1AG3FoU4p-__rozLo0wFq2qzws8zwK4Zf
 
 
-💻 GitHub Repository: 
+💻 GitHub Repository: https://github.com/AnujPatil642/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion-SalesForce
 
 
 
